@@ -1,2 +1,2 @@
-# MusicBotByHydra
-Bu Bot Hydra Tarafından Yapılmıştır
+# MusicBot
+MusicBot 
